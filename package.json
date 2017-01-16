@@ -1,0 +1,28 @@
+{
+  "name": "now-demo-deploy",
+  "version": "1.0.0",
+  "description": "Demo for using now.sh",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milanchheda/now-demo-deploy"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "expressjs",
+    "now"
+  ],
+  "author": "Milan Chheda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milanchheda/now-demo-deploy/issues"
+  },
+  "homepage": "https://github.com/milanchheda/now-demo-deploy",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
