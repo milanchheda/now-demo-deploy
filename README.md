@@ -1,4 +1,4 @@
-### Testing now.sh
+### Testing [now.sh](http://now.sh)
 
 ```
 $ git clone https://github.com/milanchheda/now-demo-deploy.git
